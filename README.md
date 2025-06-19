@@ -64,5 +64,9 @@ To deliver an interactive visual tool that:
 - **Product Focus:** Identify top products for promotions.
 - **Location Analysis:** Compare store performance for expansion planning.
 - **Customer Behavior:** Understand order size trends for personalized offers.
+**
+  ## Screenshots/ Demos**
+  Show what the dashboard looks like
+  Example:
 
   
