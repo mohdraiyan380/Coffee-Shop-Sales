@@ -65,8 +65,9 @@ To deliver an interactive visual tool that:
 - **Location Analysis:** Compare store performance for expansion planning.
 - **Customer Behavior:** Understand order size trends for personalized offers.
 **
-  ## Screenshots/ Demos**
+  ## Screenshots/ Demos
   Show what the dashboard looks like
-  Example:
+  <br>
+  Example: https://github.com/mohdraiyan380/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Analyst%20.png
 
   
